@@ -1,24 +1,43 @@
 ## Tabla de contenido
 
 1 - Introducción
+
 2 - Operadores
+
 3 - Funciones básicas succ, min, xax
+
 4 - Crear funciones
+
 5 - Estructura IF
+
 6 - Listas
+
 8 - Funciones de Listas 1 de 2
+
 9 - Funciones de Listas 2 de 2
+
 10 - Rangos
+
 11 - Funciones de Listas Infinitas
+
 12 - Listas Intencionales
+
 13 - Listas Intencionales Dobles
+
 14 - Tuplas vs. Listas
+
 15 - Funciones Duplas
+
 16 - Lista de Duplas ZIP
+
 17 - Comando :t (Tipos de Datos)
+
 18 - Conversores Show y Read
+
 Conclusión
+
 Ficha Bibliográfica
+
 
 ## 1-Introducción
 
